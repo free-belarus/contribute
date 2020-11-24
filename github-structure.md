@@ -1,3 +1,8 @@
+---
+title: Структура организации в GitHub
+description: Структура организации в GitHub
+---
+
 # Структура [организации free-belarus в GitHub](https://github.com/free-belarus)
 
 
