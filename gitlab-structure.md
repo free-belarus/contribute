@@ -1,6 +1,6 @@
 ---
-title: Структура организации в GitLab
-description: Структура организации в GitLab
+title: Структура GitLab
+description: Структура GitLab
 ---
 
 # Структура [организации free-belarus в GitLab](https://gitlab.com/free-belarus)

@@ -40,7 +40,7 @@
 
 ## Файлы
 
-Не видите какой-то полезной информации — добавяйте. Не понимаете куда — кидайте в [inbox](https://github.com/free-belarus/info/tree/master/inbox), мы потом перекинем куда нужно.
+Не видите какой-то полезной информации — добавяйте. Не понимаете куда — кидайте в [inbox](https://github.com/free-belarus/info/tree/master/inbox).
 
 ### Markdown
 
