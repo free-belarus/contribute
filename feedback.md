@@ -15,3 +15,4 @@ description: Связь с нами
 Если вы хотите присоединиться к команде, то напишите нам напрямую:
 - [на protonmail](2d5faf956fc77fdedb1f3ab321d04449@protonmail.com);
 - [в telegram-бота](https://t.me/wasjawojasja).
+
